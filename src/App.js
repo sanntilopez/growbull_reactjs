@@ -1,23 +1,25 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react'; 
+import Footer from './Components/Footer';
+import ItemListContainer from './Components/ItemListContainer';
+import Navbar from './Components/Navbar';
 
 function App() {
+
+  // Item List Alert
+  let productos = []
+  let itemListAlert = ""
+  if (productos.length === 0) {
+    itemListAlert = "No se encontraron productos!";
+  } else{
+    itemListAlert = "Productos encontrados";
+  }
+
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <Navbar />
+      <ItemListContainer prod={itemListAlert}/>
+      <Footer/>
     </div>
   );
 }

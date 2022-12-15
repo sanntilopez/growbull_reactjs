@@ -1,0 +1,162 @@
+    [
+        {
+            "tipo":"Proteina",
+            "id":1,
+            "nombre":"TRUEMADE WHEY PROTEIN",
+            "descripcion":"TRUEMADE contiene un blend de máxima pureza con una rápida absorción y una excelente calidad, garantizando una efectiva y rápida recuperación del tejido muscular:",
+            "marca":"ENA",
+            "precio":4800,
+            "img":"/img/truemadeWheyProtein.jpg",
+            "stock":10
+        },
+        {
+            "tipo":"Proteina",
+            "id":2,
+            "nombre":"100% WHEY PROTEIN",
+            "descripcion":"Complementá tu alimentación con 100% WHEY, una proteína diseñada para tu consumo diario.",
+            "marca":"ENA",
+            "precio":4000,
+            "img":"/img/100whey.jpg",
+            "stock":10
+        },
+        {
+            "tipo":"Proteina",
+            "id":3,
+            "nombre":"PLATINUM WHEY PROTEIN",
+            "descripcion":"Su agradable sabor y alta disolución lo convierten en la opción inteligente a la hora de agregar proteínas de alto valor biológico a nuestra dieta, o como parte de un programa nutricional deportivo.",
+            "marca":"STAR NUTRITION",
+            "precio":5400,
+            "img":"/img/proteinstar.jpg",
+            "stock":10
+        },
+        {
+            "tipo":"Creatina",
+            "id":4,
+            "nombre":"CREA SHOCK",
+            "descripcion":"Aumenta la capacidad de realizar ejercicios de alta intensidad y recuperarse en lapsos cortos, logrando mejores entrenamientos.",
+            "marca":"NUTRILAB",
+            "precio":3000,
+            "img":"/img/creaShockNutrilab.png",
+            "stock":10
+        },
+        {
+            "tipo":"Creatina",
+            "id":5,
+            "nombre":"CREATINA MONOHIDRATO",
+            "descripcion":"La creatina micronizada es la unión de tres aminoácidos que ofrece mayores ventajas que la creatina normal, mejorando su asimilación. La creatina monohidrato es recomendada durante un plan de entrenamiento para aumentar la fuerza, resistencia y recuperación.",
+            "marca":"STAR NUTRITION",
+            "precio":7000,
+            "img":"/img/creatinastar.jpg",
+            "stock":10
+        },
+        {
+            "tipo":"Shaker",
+            "id":6,
+            "nombre":"SHAKER",
+            "descripcion":"Ideal para llevar tu propia bebida, o tus propios suplementos como, pre-workout, post-workout, proteínas o cualquier tipo de polvo que quieras diluir fácilmente y sin grumos.",
+            "marca":"GOLD NUTRITION",
+            "precio":800,
+            "img":"/img/shakerGold.png",
+            "stock":10
+        },
+        {
+            "tipo":"Shaker",
+            "id":7,
+            "nombre":"SHAKER",
+            "descripcion":"Ideal para llevar tu propia bebida, o tus propios suplementos como, pre-workout, post-workout, proteínas o cualquier tipo de polvo que quieras diluir fácilmente y sin grumos.",
+            "marca":"XTRENGHT",
+            "precio":800,
+            "img":"/img/shakerXtreght.png",
+            "stock":10
+        },
+        {
+            "tipo":"Preentreno",
+            "id":8,
+            "nombre":"PREWAR",
+            "descripcion":"PRE WAR es la siguiente evolución en pre entrenamientos. Diseñado con precisión para desafiar tus límites, favorece la concentración, el aumento de energía, la fuerza, el tamaño muscular y la recuperación. Entrena con nuestro Pre work más completo y con fórmula mejorada con 200mg de cafeína por ingesta.",
+            "marca":"ENA",
+            "precio":3000,
+            "img":"/img/prewarEna.jpg",
+            "stock":10
+        },
+        {
+            "tipo":"Preentreno",
+            "id":9,
+            "nombre":"PUMP V8",
+            "descripcion":"Contiene los 8 ingredientes activos que necesitas para entrenar intensamente, por más tiempo, con mayor volumen de sangre en los músculos y super motivado",
+            "marca":"STAR NUTRITION",
+            "precio":3600,
+            "img":"/img/pumpv8.jpg",
+            "stock":10
+        },
+        {
+            "tipo":"Proteina",
+            "id":10,
+            "nombre":"MUTANT MASS 5KG",
+            "descripcion":"Mutant Mass aporta esa cantidad extra de proteínas, carbohidratos, minerales, vitaminas y fibras específicas para cumplir tus metas.",
+            "marca":"STAR NUTRITION",
+            "precio":10000,
+            "img":"/img/mutantMass.jpg",
+            "stock":10
+        },
+        {
+            "tipo":"Proteina",
+            "id":11,
+            "nombre":"ULTRA MASS 1,5KG",
+            "descripcion":"Ultra Mass provee de la suplementación necesaria para complementar una dieta balanceada. Te provee con las herramientas que necesitas para aumentar tu volumen y ayudarte a desarrollar el físico que siempre quisiste.",
+            "marca":"ENA",
+            "precio":3800,
+            "img":"/img/ultraMassEna.jpg",
+            "stock":10
+        },
+        {
+            "tipo":"Proteina",
+            "id":12,
+            "nombre":"BARRAS PROTEICAS x20",
+            "descripcion":"Iron Bar es una barra nutricional con un importante aporte de proteínas de suero lácteo e hidratos de carbono, las primeras con alta concentración de aminoácidos ramificados  y los últimos como fuente de energía para los músculos.",
+            "marca":"GENTECH",
+            "precio":3500,
+            "img":"/img/ironbarGentech.jpg",
+            "stock":10
+        },
+        {
+            "tipo":"Creatina",
+            "id":13,
+            "nombre":"CREATINA",
+            "descripcion":"Aumenta la capacidad de realizar ejercicios de alta intensidad y recuperarse en lapsos cortos, logrando mejores entrenamientos.",
+            "marca":"BODY ADVANCE",
+            "precio":3500,
+            "img":"/img/creabody.png",
+            "stock":10
+        },
+        {
+            "tipo":"Creatina",
+            "id":14,
+            "nombre":"CREATINA MICRONIZADA",
+            "descripcion":"Nuestra CREATINA MICRONIZADA es un excelente suplemento pre entrenamiento ya que colabora en la formación de los componentes energéticos, mejora la potencia muscular y retrasa la fatiga muscular, preparando al cuerpo para un mejor rendimiento físico Ha sido demostrado que apoya el crecimiento del tamaño de los músculos, y el aumento de fuerza y poder cuando se la combina con actividades de alta intensidad.",
+            "marca":"ENA",
+            "precio":6600,
+            "img":"/img/creaena.png",
+            "stock":10
+        },
+        {
+            "tipo":"Proteina",
+            "id":15,
+            "nombre":"WHEY PROTEIN 7900",
+            "descripcion":"La proteína de suero de leche, también conocida como whey protein, es uno de los suplementos más utilizados cuando el objetivo es aumentar masa muscular o hipertrofiar. ",
+            "marca":"GENTECH",
+            "precio":3600,
+            "img":"/img/Proteinagentech.png",
+            "stock":10
+        },
+        {
+            "tipo":"Shaker",
+            "id":16,
+            "nombre":"SHAKER PREMIUM",
+            "descripcion":"Ideal para llevar tu propia bebida, o suplementos en polvo que quieras diluir fácilmente y sin grumos, ya que trae un batidor de acero inoxidable pulido oval para facilitar el batido y su limpieza.",
+            "marca":"ENA",
+            "precio":1700,
+            "img":"/img/shakerpremiumena.png",
+            "stock":10
+        }
+    ]
